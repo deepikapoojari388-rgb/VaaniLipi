@@ -1,17 +1,32 @@
-# vaanilipi
+# VaaniLipi
 
-A new Flutter project.
+VaaniLipi is a Flutter-based accessibility application designed to support students with hearing loss through real-time classroom captions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time speech captions
+- Regional language support
+- Adjustable caption text size
+- Question detection
+- Homework detection
+- Key-term extraction
+- Lecture saving
+- Searchable lecture notes
+- Visual classroom alerts
 
-A few resources to get you started if this is your first Flutter project:
+## Technology
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android
+- Speech-to-Text
+- Lightweight NLP
+- SharedPreferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+VaaniLipi aims to make classroom learning more accessible and inclusive for students with hearing loss.
+
+## Project Status
+
+Prototype / Academic Project
